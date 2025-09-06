@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\arden\\documents\\github\\unrealenginecarden2025\\eucarden2025\\intermediate\\build\\win64\\unrealeditor\\inc\\eucarden2025\\uht\\eucarden2025.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\arden\\documents\\github\\unrealenginecarden2025\\eucarden2025\\intermediate\\build\\win64\\x64\\eucarden2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\arden\\documents\\github\\unrealenginecarden2025\\eucarden2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eucarden2025\\definitions.eucarden2025.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

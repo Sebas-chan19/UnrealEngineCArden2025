@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EUCArden2025.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EUCArden2025.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EUCArden2025Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EUCArden2025">
+      <UniqueIdentifier>{A2FC86D6-EC5A-3A36-8EE5-504F9840BFD7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EUCArden2025\EUCArden2025.Build.cs">
+      <Filter>Source\EUCArden2025</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EUCArden2025\EUCArden2025.cpp">
+      <Filter>Source\EUCArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden2025\EUCArden2025.h">
+      <Filter>Source\EUCArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden2025\MyActorTest.cpp">
+      <Filter>Source\EUCArden2025</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\EUCArden2025\MyActorTest.h">
+      <Filter>Source\EUCArden2025</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
