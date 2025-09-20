@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/HR/1UNP2NFWNEHBO213S5SQBF.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/AO/CXUULRDO7ETI89TDECN4V9.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/MS/NJMBPV3OOAH4QE41UZCXNA.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/GC_Cube/GC_Cube.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/GC_Alex/GC_SM_Cube14.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/arden/Documents/GitHub/UnrealEngineCArden2025/ChasodestructionClas/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset"
+			]
+		}
+	]
+}
